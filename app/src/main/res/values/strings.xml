@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Reg</string>
+    <string name="prefs_file">com.example.reg.PREFERENCE_FILE_KEY</string>
 </resources>
